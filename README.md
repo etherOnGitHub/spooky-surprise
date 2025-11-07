@@ -6,6 +6,10 @@ An immersive, interactive Halloween adventure game featuring branching narrative
 
 Spooky Surprise is a text-based interactive fiction experience where players assume the role of a Brichan (guardian/hunter) navigating through a dark fantasy narrative. The game features three distinct story paths (Faith, Reflection, and Corruption), each with unique scenarios, moral dilemmas, dice-based skill checks, and multiple endings determined by player choices.
 
+## Presentation
+
+[![Watch the video](https://img.youtube.com/vi/KEgnrjpfL_U/maxresdefault.jpg)](https://www.youtube.com/watch?v=KEgnrjpfL_U)
+
 ## Features
 
 ### Interactive Story System
