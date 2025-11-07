@@ -1,3 +1,6 @@
+<div align="center">
+<img src="https://github.com/etherOnGitHub/etherOnGitHub/blob/main/theme/images/projects/winner-oct-2025.png" width="300">
+</div>
 # Spooky Surprise
 
 An immersive, interactive Halloween adventure game featuring branching narratives, atmospheric audio, and sophisticated visual effects.
